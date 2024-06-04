@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\DatatableToExcelTemplateMapper.csproj|c:\\users\\ler21\\source\\repos\\datatabletoexceltemplatemapper\\testapp\\datatabletoexceltemplatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\DatatableToExcelTemplateMapper.csproj|solutionrelative:testapp\\datatabletoexceltemplatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\DatatableToExcelTemplateMapper.csproj|C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\testapp\\datatabletoexceltemplatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\DatatableToExcelTemplateMapper.csproj|solutionrelative:testapp\\datatabletoexceltemplatemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\TestApp.csproj|C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\TestApp.csproj|C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\testapp\\util\\openxmlutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}|TestApp\\TestApp.csproj|solutionrelative:testapp\\util\\openxmlutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:56:53.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenXMLUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\Util\\OpenXMLUtil.cs",
+              "RelativeDocumentMoniker": "TestApp\\Util\\OpenXMLUtil.cs",
+              "ToolTip": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\Util\\OpenXMLUtil.cs",
+              "RelativeToolTip": "TestApp\\Util\\OpenXMLUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALkBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:27:42.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatatableToExcelTemplateMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\DatatableToExcelTemplateMapper.cs",
+              "RelativeDocumentMoniker": "TestApp\\DatatableToExcelTemplateMapper.cs",
+              "ToolTip": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\DatatableToExcelTemplateMapper.cs",
+              "RelativeToolTip": "TestApp\\DatatableToExcelTemplateMapper.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAhwF8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:56:57.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatatableToExcelTemplateMapper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\DatatableToExcelTemplateMapper.cs",
+              "RelativeDocumentMoniker": "TestApp\\DatatableToExcelTemplateMapper.cs",
+              "ToolTip": "C:\\Users\\ler21\\source\\repos\\DatatableToExcelTemplateMapper\\TestApp\\DatatableToExcelTemplateMapper.cs [Design]",
+              "RelativeToolTip": "TestApp\\DatatableToExcelTemplateMapper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:29:55.375Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

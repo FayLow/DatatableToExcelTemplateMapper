@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatatableToExcelTemplateMapper", "TestApp\DatatableToExcelTemplateMapper.csproj", "{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E09D106-81DA-4A5D-BD45-B3ADC93030AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4005DE54-27A4-480F-A073-70738C7AFBBA}
+	EndGlobalSection
+EndGlobal
